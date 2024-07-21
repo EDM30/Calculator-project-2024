@@ -44,6 +44,7 @@ button {
     cursor: pointer;
 }
 
+/* the colon stands for a pseudoclass */
 button:hover{
     background-color: hsl(0, 0%, 40%);
 }
